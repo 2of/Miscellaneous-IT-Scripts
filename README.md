@@ -4,12 +4,12 @@ A collection of scripts for use in the IT world
 
 ### EXO > Distribution Lists
 
-## usage
+## Create Dist lists from big spooky excel sheets:
 
 In a windows terminal with ps run:
 
 
-1. Connect-ExchangeOnline -UserPrincipalName "yourusername@somewhere.com" (likely will pop up an MS login SSO window, use an exchange shell authorisued ms account)
+1. Connect-ExchangeOnline -UserPrincipalName "yourusername@somewhere.com" (likely will pop up an MS login SSO window, use an exchange shell authorisued ms account, could be a script but aren't we all a bit lazy :) )
 
 2. Import-Module ExchangeOnlineManagement 
 
