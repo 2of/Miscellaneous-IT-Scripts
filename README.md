@@ -1,5 +1,5 @@
 # Miscellaneous IT Scripts
-A collection of scripts for use in the IT world
+A collection of scripts for use in the IT world [Note these are stripped of anything identifying an org / identifying a business or individual, these are written by me and hosted here publically. Proceed with the expectation that you may break production and contextualize the code thoroughly before running... thanks :( ] 
 
 
 ### EXO > Distribution Lists
